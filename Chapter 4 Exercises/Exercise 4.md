@@ -6,3 +6,4 @@
  - e. None of the above
  
  ## Solution
+d. b and c are both true
