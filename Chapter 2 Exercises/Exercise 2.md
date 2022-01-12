@@ -5,3 +5,8 @@ Enter your name: Chuck
 Hello Chuck
 ```
 ## Solution
+```
+name = input('What is your name? ')
+welcome = 'Greetings, earthling whose name is '
+print(welcome + name + '.')
+```
