@@ -13,3 +13,14 @@ For each of the following expressions, write the value of the expression and the
 Use the Python interpreter to check your answers.
 
 ## Solution
+1. 8
+'8' is an integer, defined a 'whole number.'
+
+2. 8.5
+'8.5' is of the class 'float', so it will be evaluated as a 'float' with a decimal.
+
+3. 4.0
+'4.0' has the class 'float', so it will be evaluated as a 'float' with a decimal.
+
+4. 11
+PEMDAS
