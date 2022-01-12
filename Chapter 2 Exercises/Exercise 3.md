@@ -10,14 +10,8 @@ We won't worry about making sure our pay has exactly two digits after the decima
 
 ## Solution
 ```
-inp = input('Enter Hours: ')
+hours = input('Enter Hours: ')
 rate = input('Enter Rate: ')
-try:
-   if float(inp)> 40.0:
-      pay = 40.0 * float(rate) + ((float(inp) - 40.0) * float(rate) * 1.5)
-   else:
-      pay = float(inp) * float(rate)
-except:
-   print(pay)
-   print('Error, please enter numeric input.')
+pay = float(hours) * float (rate)
+print('Pay: ' + pay)
    ```
